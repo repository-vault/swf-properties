@@ -1,0 +1,15 @@
+{
+  "fileLength": {
+    "compressed": 1323,
+    "uncompressed": 2543
+  },
+  "frameCount": 35,
+  "frameRate": 24,
+  "frameSize": {
+    "height": 400,
+    "width": 550,
+    "x": 0,
+    "y": 0
+  },
+  "version": 10
+}
