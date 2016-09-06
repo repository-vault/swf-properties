@@ -50,6 +50,9 @@ The SWF Object method has the following properties :
 
 MIT 
 
+[![Build Status](https://travis-ci.org/131/swf-properties.svg?branch=master)](https://travis-ci.org/131/swf-properties)
+[![Coverage Status](https://coveralls.io/repos/github/131/swf-properties/badge.svg?branch=master)](https://coveralls.io/github/131/swf-properties?branch=master)
+
 [nodejs]: http://www.nodejs.org
 [swf-format]: http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec.pdf
 [rdleal-git]: https://github.com/rafaeldias
