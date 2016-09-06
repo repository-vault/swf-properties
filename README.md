@@ -1,7 +1,6 @@
 ## SWF properties reader
   
-A simple [node][nodejs] module for reading [SWF format][swf-format] properties
-This is a ES6 fork of [swf-reader](https://github.com/rafaeldias/swf-reader), with a simplier intend (no internal tags/clip lookup, just main scene properties).
+A simple node module for reading [SWF format][swf-format] properties. This is a ES6 fork of [swf-reader](https://github.com/rafaeldias/swf-reader), with a simplier intend (no internal tags/clip lookup, just main scene properties).
 
 
 ## Installation
